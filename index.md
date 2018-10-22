@@ -14,34 +14,15 @@ Each of these projects incorporates all of these aspects (for the exception of d
 
 The takeaway from these projects is that the core components of computer science have been internalized to produce quality work in the field as a software engineer. I currently work as a software engineer (started half way through the curriculum in 2017) and have found these principles of computer science  to be the biggest part of having success in my career so far. Going forward, I plan on enhancing these skills further to be a better software engineer that can adapt to various technologies quickly and I also intend on using what I have learned in this degree and in my current career to contribute to my graduate studies later on. 
 
-### Markdown
+### Computer Science Artifacts Code Review 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Code Review](https://pages.github.com/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Artifact Enhancements 
 
-- Bulleted
-- List
+### 1. Software Engineering and Design: Zoo User Access from Java to Python
 
-1. Numbered
-2. List
+### 2. Data Structures and Algorithms: Linked List to Doubly Linked List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gvnwlt/ePortfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 3. Databases: Impelmenting Trained Machine Learning Model with PyMongo
