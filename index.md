@@ -18,7 +18,6 @@ The takeaway from these projects is that the core components of computer science
 
 [Code Review](https://pages.github.com/)
 
-
 ## Artifact Enhancements 
 
 ### 1. Software Engineering and Design: Zoo User Access from Java to Python
