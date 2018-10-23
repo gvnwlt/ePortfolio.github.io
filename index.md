@@ -1,3 +1,5 @@
+![profile picture](/images/viewprofileimage.d2l.jpg)
+
 ## ePortfolio Introduction
 
 My experience in the computer science curriculum and capstone has enhanced my current and future career contributions by gaining a deeper understanding of the fundamentals of computer science.  The computer science curriculum has provided me with the required competencies across a broad range of topics so that I can be a better asset in the field. This portfolio highlights the foundational work that I have produced. 
