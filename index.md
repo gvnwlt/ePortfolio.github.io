@@ -40,7 +40,7 @@ The objective I initially set out for was to combine various data structures lik
 
 One thing I learned from this enhancement is that the code can always be improved. I generally use a task list of things to carry out during a project to make sure I stay on track with the requirements. It was very hard to restrain from finding other things that could use an upgrade or be tweaked differently. I still met the requirements I had laid out, but I found myself getting carried away at times with wanting to fix or work on other details which ends up spiraling into getting away from the main objective. The main takeaway is that having a back-burner list is a useful tool to keep track of a list of “wants” in terms of improving a project to keep moving forward in the interest of time. 
  
- [Doubly Linked List Project](https://youtu.be/thrcEA0pdK0)
+ [Doubly Linked List Project](https://github.com/gvnwlt/ePortfolio.github.io/tree/master/ua_2)
 
 ### 3. Databases: Impelmenting Trained Machine Learning Model with PyMongo
 The artifact included for the database enhancement was from my Advanced Programming course during the July 2018 term. This project was used as a RESTful API service incorporating Python, MongoDB, and the Bottle framework. It consists of a number of functions that operate on a Mongo database. A user can send HTML POST/REQUEST to invoke a function that will perform CRUD operations on a given collection.  
@@ -51,5 +51,5 @@ I selected this artifact because I enjoy working with Python and I wanted to imp
 
 Some of the issues I had during this enhancement involved configuring the necessary Python libraries on a remote system. I believe I would better off just implement my own MongoDB on my host machine (most likely a virtual machine). For the most part, I learned that Python is a very powerful tool for creating useful code simply and efficiently. And, I finally learned how to deployed a trained machine learning model as a functional piece of software, rather than just generating models and evaluating the output. Machine learning is something I want to bring into practice more in my software engineering projects by training models and importing them in as functions or parts of functions. 
 
- [Database/Machine Learning Project](https://youtu.be/thrcEA0pdK0)
+ [Database/Machine Learning Project](https://github.com/gvnwlt/ePortfolio.github.io/tree/master/ua_3)
 
