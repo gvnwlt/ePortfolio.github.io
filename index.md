@@ -16,7 +16,7 @@ The takeaway from these projects is that the core components of computer science
 
 ### Computer Science Artifacts Code Review 
 
-[Code Review](https://youtu.be/thrcEA0pdK0)
+[Code Review](https://youtu.be/BmnVwuQxGuQ)
 
 ## Artifact Enhancements 
 
