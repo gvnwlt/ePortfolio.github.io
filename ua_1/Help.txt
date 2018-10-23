@@ -1,0 +1,1 @@
+Depending on the IDE, text files used in this program should be loaded into a "test" folder (as in NetBeans) to be read using the relative paths to access. 
